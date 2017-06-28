@@ -1,6 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-
 
 
 
@@ -418,15 +416,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-1 .navbar-toggler {
-  color: #ffffff;
+  color: #c1c1c1;
 }
 #ext_menu-1 .close-icon::before,
 #ext_menu-1 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #c1c1c1;
 }
 #ext_menu-1 .link,
 #ext_menu-1 .dropdown-item {
-  color: #ffffff;
+  color: #c1c1c1;
 }
 #ext_menu-1 .link {
   font-size: 0.85rem;
@@ -458,7 +456,7 @@ h6,
   background: #000000;
 }
 #ext_menu-1 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #c1c1c1;
   transition: none;
 }
 #ext_menu-1 .bg-color.transparent.opened .link {
@@ -472,55 +470,47 @@ h6,
 #ext_menu-1 .dropdown-item[aria-expanded="true"] {
   color: #28324e!important;
 }
-#header1-7 .mbr-section-lead {
+#header1-t .mbr-section-title {
   color: #efefef;
-  text-align: left;
-  font-family: 'Noto Sans', sans-serif;
 }
-#header1-7 .mbr-section-title {
-  color: #000000;
+#header1-t .mbr-section-lead {
+  color: #efefef;
 }
-#msg-box2-8 .mbr-section-title {
-  color: #fff;
-  text-align: left;
+#header1-q .mbr-section-lead {
+  color: #efefef;
 }
-#msg-box2-8 .mbr-section-subtitle {
-  color: #a0a0a0;
+#header1-q .mbr-section-title {
+  color: #efefef;
 }
-#msg-box8-k .mbr-section-title,
-#msg-box8-k p {
-  color: #fff;
+#header1-s .mbr-section-title {
+  color: #efefef;
 }
-#msg-box8-k .mbr-section-title {
-  text-align: left;
-}
-#msg-box8-k .lead P {
-  text-align: left;
+#header1-s .mbr-section-lead {
+  color: #efefef;
 }
 #msg-box8-o .mbr-section-title,
 #msg-box8-o p {
   color: #fff;
 }
 #msg-box8-o .lead P {
-  text-align: left;
+  text-align: center;
+  color: #efefef;
+  font-size: 32px;
 }
 #msg-box8-o .mbr-section-title {
-  text-align: left;
+  text-align: center;
+  color: #efefef;
 }
-#msg-box8-j .mbr-section-title,
-#msg-box8-j p {
-  color: #fff;
+#msg-box8-o .lead DIV {
+  color: #efefef;
 }
-#msg-box8-j .mbr-section-title {
-  text-align: left;
-}
-#msg-box8-j .lead P {
-  text-align: left;
+#msg-box8-o .lead {
+  color: #efefef;
 }
 #social-buttons4-9 .mbr-section-title,
 #social-buttons4-9 .btn-social {
   color: #fff;
 }
 #social-buttons4-9 .mbr-section-title {
-  text-align: left;
+  text-align: center;
 }

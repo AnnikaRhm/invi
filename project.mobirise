@@ -23,7 +23,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 26,
+    "uniqCompNum": 30,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -52,13 +52,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#c1c1c1"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -79,7 +79,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -98,7 +98,7 @@
             "bgColor": "#000000",
             "fontSize": "0.85",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#c1c1c1",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -124,126 +124,118 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-o\">TOUR<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-j\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-9\">FOLLOW US<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-r\">HOME<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-q\">EP-LISTENING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-9\">LIVE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-9\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#efefef",
-              "text-align": "left",
-              "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
-            },
-            ".mbr-section-title": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "header1-7",
+          "_anchor": "header1-t",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/000-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/001-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000000",
+            "overlayColor": "#000",
             "contentAlign": "center",
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false
           },
           "title": "FULL SCREEN INTRO",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
-        {
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff",
-              "text-align": "left"
+              "color": "#efefef"
             },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
+            ".mbr-section-lead": {
+              "color": "#efefef"
             }
-          },
+          }
+        },
+        {
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-8",
+          "_name": "header1",
+          "_anchor": "header1-q",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/018-2000x1333.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": true,
-            "showButtons": true,
+            "overlayColor": "#000",
+            "contentAlign": "center",
             "showTitle": true,
-            "showText": true
+            "showText": true,
+            "showButtons": false
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW MUSIC VIDEO</a>",
-          "title": "LOSE CONTROL",
-          "text": ""
-        },
-        {
+          "title": "EP LISTENING",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
+            ".mbr-section-lead": {
+              "color": "#efefef"
             },
             ".mbr-section-title": {
-              "text-align": "left"
-            },
-            ".lead P": {
-              "text-align": "left"
+              "color": "#efefef"
             }
-          },
+          }
+        },
+        {
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-k",
+          "_name": "header1",
+          "_anchor": "header1-s",
           "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/014-2000x1333.jpg",
-            "bgColor": "#F2F2F2",
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/015-2000x1333.jpg",
+            "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayColor": "#000",
+            "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButton": false
+            "showButtons": false
           },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "title": "LIVE",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".mbr-section-lead": {
+              "color": "#efefef"
+            }
+          }
         },
         {
           "_styles": {
@@ -251,10 +243,19 @@
               "color": "#fff"
             },
             ".lead P": {
-              "text-align": "left"
+              "text-align": "center",
+              "color": "#efefef",
+              "font-size": "32px"
             },
             ".mbr-section-title": {
-              "text-align": "left"
+              "text-align": "center",
+              "color": "#efefef"
+            },
+            ".lead DIV": {
+              "color": "#efefef"
+            },
+            ".lead": {
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -263,8 +264,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-o",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
@@ -281,48 +282,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "TOUR",
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">31. Juli &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    München</span><br></p><p>13. August&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hamburg</p><p>19. August &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Köln &nbsp;</p><p>20.September &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frankfurt &nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "text-align": "left"
-            },
-            ".lead P": {
-              "text-align": "left"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-j",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/018-2000x1333.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
           "title": "CONTACT",
-          "text": "<p>info@invi-band.de</p>",
+          "text": "<p><b style=\"line-height: 1.5;\">We Are INVI&nbsp;</b><br></p><div>We Need Your Support To Bulid Up A Team. Labels, Bookers, Passionate People, Sponsors... WELCOME!</div><div>Email: bernhard@invimusic.com</div><div>Thank You  &lt;3</div><p></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -332,7 +293,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_tags": [
@@ -341,8 +302,8 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-9",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
@@ -352,7 +313,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "FOLLOW US",
+          "text": "",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
         }
       ]
