@@ -58,13 +58,15 @@
               "background-color": "#c1c1c1"
             },
             ".link, .dropdown-item": {
-              "color": "#c1c1c1"
+              "color": "#c1c1c1",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-family": "'PT Sans Narrow', sans-serif"
             },
             ".link": {
-              "font-size": "0.85rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -96,8 +98,12 @@
           "_anchor": "ext_menu-1",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.85",
-            "fontName": {},
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "PT Sans Narrow",
+              "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "css": "'PT Sans Narrow', sans-serif"
+            },
             "fontColor": "#c1c1c1",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
