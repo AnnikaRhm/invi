@@ -1,4 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+
+
+
+
+
+
 
 
 
@@ -471,7 +480,9 @@ h6,
   color: #28324e!important;
 }
 #header1-t .mbr-section-title {
-  color: #efefef;
+  color: #000000;
+  font-size: 100px;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 #header1-t .mbr-section-lead {
   color: #efefef;
@@ -481,9 +492,12 @@ h6,
 }
 #header1-q .mbr-section-title {
   color: #efefef;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #header1-s .mbr-section-title {
   color: #efefef;
+  text-align: center;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #header1-s .mbr-section-lead {
   color: #efefef;
@@ -495,17 +509,25 @@ h6,
 #msg-box8-o .lead P {
   text-align: center;
   color: #efefef;
-  font-size: 32px;
+  font-size: 30px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #msg-box8-o .mbr-section-title {
   text-align: center;
   color: #efefef;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #msg-box8-o .lead DIV {
   color: #efefef;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 30px;
 }
 #msg-box8-o .lead {
   color: #efefef;
+}
+#msg-box8-o .lead H2 {
+  font-size: 72px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #social-buttons4-9 .mbr-section-title,
 #social-buttons4-9 .btn-social {
